@@ -20,17 +20,12 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/silviu-i-hermeneanu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviu" height="30" width="40" />
-  </a>
-  <a href="mailto:her.silviu.i@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
-  </a>
-  <a href="https://github.com/hsilviu05" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="github" height="30" width="40"/>
-  </a>
+<p align="center">
+  📧 <b>Email me:</b> <a href="mailto:her.silviu.i@gmail.com">her.silviu.i@gmail.com</a> <br />
+  🔗 <b>Connect on LinkedIn:</b> <a href="https://www.linkedin.com/in/silviu-i-hermeneanu/">silviu-i-hermeneanu</a> <br />
+  💻 <b>Check out my code:</b> <a href="https://github.com/hsilviu05">github.com/hsilviu05</a>
 </p>
+
 
 ---
 
