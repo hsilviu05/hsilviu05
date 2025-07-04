@@ -26,10 +26,19 @@
   💻 <b>Check out my code:</b> <a href="https://github.com/hsilviu05">github.com/hsilviu05</a>
 </p>
 
-
 ---
 
 ## 🔭 Featured Projects
+
+### 🧠 [RedNet](https://github.com/hsilviu05/RedNet)
+> C++ · Reinforcement Learning · Cybersecurity Engine  
+An AI-driven cybersecurity simulator where agents learn to hack:
+- Simulates real network environments and exploits
+- Implements custom shell, file systems, payloads, pivoting
+- Trains a Reinforcement Learning agent to attack and exfiltrate data
+- Mission scripting via JSON + expandable architecture
+
+---
 
 ### 🚀 [Finite‑Automaton](https://github.com/hsilviu05/Finite-Automaton)
 > C++ · Theory · Automata  
