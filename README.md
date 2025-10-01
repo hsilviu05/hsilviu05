@@ -112,7 +112,7 @@ A modern Windows calculator clone with both **Standard** and **Programmer** mode
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsilviu05&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsilviu05&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsilviu05&layout=compact&theme=radical&count_private=false" alt="Top Languages" width="48%"/>
 </div>
 
 ---
