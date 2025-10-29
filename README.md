@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Hi+I'm+Silviu+Hermeneanu;Computer+Science+Student;C%2B%2B+%2F+C%23+Developer;AI%2C+WPF+%26+Cybersecurity+Enthusiast" />
 
-<h3 align="center">Second-year Computer Science student at the Faculty of Mathematics and Computer Science, passionate about AI, system programming, and cybersecurity.</h3>
+<h3 align="center">Third-year Computer Science student at the Faculty of Mathematics and Computer Science, passionate about AI, system programming, and cybersecurity.</h3>
 
 ---
 
