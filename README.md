@@ -28,18 +28,6 @@
 
 ---
 
-## 🔭 Featured Projects
-
-### 🧠 [RedNet](https://github.com/hsilviu05/RedNet)
-> C++ · Reinforcement Learning · Cybersecurity Engine  
-An AI-driven cybersecurity simulator where agents learn to hack:
-- Simulates real network environments and exploits
-- Implements custom shell, file systems, payloads, pivoting
-- Trains a Reinforcement Learning agent to attack and exfiltrate data
-- Mission scripting via JSON + expandable architecture
-
----
-
 ### 🚀 [Finite‑Automaton](https://github.com/hsilviu05/Finite-Automaton)
 > C++ · Theory · Automata  
 A flexible simulation library for deterministic and non-deterministic finite automata:
@@ -111,14 +99,5 @@ A modern Windows calculator clone with both **Standard** and **Programmer** mode
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsilviu05&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsilviu05&layout=compact&theme=radical&count_private=false" alt="Top Languages" width="48%"/>
 </div>
-
----
-
-## 🧭 Badges
-
-![Status](https://img.shields.io/badge/Student-Year%202-blue?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%2C%20Security%2C%20C%23-blueviolet?style=flat-square)
-![Learning](https://img.shields.io/badge/Learning-Swift%20%26%20Mobile%20Dev-orange?style=flat-square)
